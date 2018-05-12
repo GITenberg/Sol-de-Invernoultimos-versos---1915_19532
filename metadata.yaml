@@ -1,0 +1,31 @@
+_repo: Sol-de-Invernoultimos-versos---1915_19532
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Feijó, António Joaquim de Castro
+    alias: Feijo, Antonio Joaquim de Castro
+    birthdate: 1859
+    deathdate: 1917
+    gutenberg_agent_id: '8726'
+    url: http://www.gutenberg.org/2009/agents/8726
+    wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Feij%C3%B3
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2006-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19532'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese poetry'
+- !lcc 'PQ'
+title: 'Sol de Inverno
+
+  ultimos versos : 1915'
+url: http://www.gutenberg.org/ebooks/19532
