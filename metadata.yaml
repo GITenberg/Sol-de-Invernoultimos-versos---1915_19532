@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8726
     wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Feij%C3%B3
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19532#Sol-de-Invernoultimos-versos---1915
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2006-10-13'
 gutenberg_type: Text
